@@ -29,7 +29,7 @@ List of important algorithm ideas used for problem solving.
  - Sort by comparator then DP
 
 # Data Structures:
- - Segment Tree:
+ # Segment Tree:
   - RSQ
   - RMQ
   - Lazy Propagation
@@ -40,13 +40,13 @@ List of important algorithm ideas used for problem solving.
     - Trie
     - Bitset
     - STL containers
- - Fenwick Tree:
+ # Fenwick Tree:
   - RSQ
   - Range Updates
- - Sparse Table:
+ # Sparse Table:
   - RMQs, RSQs, RGCDQs, Rf(x)Qs in O(1)
   - LCA in O(1)
- - Disjoint Set Union(DSU):
+ # Disjoint Set Union(DSU):
   - Connected Components
   - Small to large merging
   - MST
